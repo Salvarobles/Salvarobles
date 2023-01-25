@@ -10,4 +10,4 @@ I.E.S Politécnico Hermenegildo Lanz 📚  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvarobles)](https://github.com/Salvarobles/github-readme-stats)
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Salvarobles&show_icons=true&theme=jolly" alt="salvarobles" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Salvarobles&show_icons=true&theme=jolly" alt="salvarobles" />
